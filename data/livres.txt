@@ -1,0 +1,18 @@
+
+1;L'intelligence Artificielle;Jean Dupont;Informatique;emprunte
+2;Programmation Java;Alice Martin;Informatique;emprunte
+3;Apprentissage profond;Yann LeCun;IA;emprunte
+4; Les réseaux neurones; Ian Goodfellow; IA; emprunte
+5; Clean Code; Robert C. Martin; Informatique; emprunte
+6; Le Seigneur des Anneaux; J.R.R. Tolkien; Fantasy; disponible
+7;Algorithmes : théorie et pratique;Thomas Cormen;Algorithmique;disponible
+8;Systèmes multi-agents;Olivier Boissier;IA;disponible
+9;Sécurité informatique;Émilie Bernard;CyberSécurité;emprunté
+10;Méthodes agiles de développement;Sophie Rolland;Génie logiciel;disponible
+11;Data Science avec Python;Nicolas Petit;Data Science;disponible
+12;Apprentissage profond (Deep Learning);Yoshua Bengio;IA;disponible
+13;Introduction aux réseaux informatiques;Jean-Paul Durand;Réseaux;disponible
+14;Big Data : principes et outils;Camille Lefèvre;Data Science;disponible
+15;Structures de données avancées;Léna Morel;Algorithmique;emprunté
+16;Conception des interfaces utilisateur;Thomas Design;UX/UI;disponible
+
